@@ -1,4 +1,4 @@
-# CMSC-405-Project-1
+# CMSC-405-Project-2
 #### Introduces the use of JOGL
 
 Creates a simple scene, in which the user can manipulate, of colored gem stones.
